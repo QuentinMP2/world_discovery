@@ -47,16 +47,19 @@
 #### Administrateur (TDB)
 
 **Acceuil TDB**
+
 Navigation disponible vers :
 - Gestion des destinations
 
 **Gestion des destinations**
+
 Affichage de toutes les destinations déjà publiées sous forme arborescente : continent -> pays
 Possibilité de :
 - Créer une nouvelle destination
 - Modifier une destination déjà existante
 
 **Créer / modifier une destination**
+
 Form :
 - Nom du pays
 - Continent
@@ -66,6 +69,7 @@ Form :
 ### Back end
 
 #### Base de données
+
 **Organisation des fichiers**
 - files
     - continent
